@@ -1,0 +1,47 @@
+// Import Vanilla framework
+@import 'vanilla-framework';
+@import "@fontsource/ubuntu";
+// Include all of Vanilla Framework //Only necessary modules could be included for bigger projects.
+@include vanilla;
+:root{
+	font-family: 'Ubuntu'
+}
+.uppercase{
+	text-transform: uppercase;
+}
+
+.author{
+	font-style: italic;
+	padding-bottom: 0.8rem;
+}
+
+.justify-text{
+	text-align: justify;
+}
+
+hr {
+	border: none;
+	background: none;
+	border-top: 1px dotted rgba(0, 0, 0, 0.15);
+}
+
+.u-flex{
+	display: flex;
+	flex-direction: column;
+}
+.p-card--highlighted {
+ border-top: 4px solid #ab7ea0;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ .p-card__heading {
+		 font-size: 22px;
+		 color: black;
+		 padding: 0;
+ }
+ .p-card__content {
+		 height: 100%;
+ }
+ .footer {
+		 font-size: 14px;
+		 text-transform: capitalize;
+ }
+}
