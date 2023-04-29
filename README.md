@@ -4,8 +4,8 @@ This project is a Vue.js implementation of Canonical's blog cards, using Vanilla
 ![image](https://user-images.githubusercontent.com/79662515/235305530-707de059-a83a-4bbb-bf65-c0c6a7e90490.png)
 
 ## Requirements
-Vanilla Framework: vanillaframework.io/docs
-WordPress API: people.canonical.com/~anthonydillon/wp-json/wp/v2/posts.json
+* Vanilla Framework: vanillaframework.io/docs
+* WordPress API: people.canonical.com/~anthonydillon/wp-json/wp/v2/posts.json
 
 ## Packages Used
 `@fontsource/ubuntu version 4.5.11`
