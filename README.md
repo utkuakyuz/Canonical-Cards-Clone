@@ -6,7 +6,6 @@ This project is a Vue.js implementation of Canonical's blog cards, using Vanilla
 ## Features
 * Advanced store technique
 * Service handling using Axios
-* Advanced component system
 * Developed using Vue.js composition API
 
 ## Packages Used
